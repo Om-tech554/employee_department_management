@@ -1,6 +1,5 @@
-# Video Demo (exceeds GitHub's 100MB limit)
-*.mp4
-Assessment_Demo_Vedio.mp4
+# Archives
+*.zip
 
 # Dependencies
 node_modules/
